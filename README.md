@@ -8,5 +8,5 @@
   <br>
   <br>
 <a href="https://www.instagram.com/rodrigo_lutfy/" title="instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target=""><br>
-  
-</a><a href="https://www.linkedin.com/in/rodrigo-lutfy/" title="Linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a>  
+</a><a href="https://www.linkedin.com/in/rodrigo-lutfy/" title="Linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a><br>
+<a href="mailto:rodrigolutfy.dev@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
