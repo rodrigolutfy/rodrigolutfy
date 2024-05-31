@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolutfy&layout=compact)
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django" />
 </a>
   <br>
   <br>
